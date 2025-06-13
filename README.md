@@ -20,6 +20,4 @@ Python
 
 Pandas – for data extraction and manipulation
 
-A cleaned, preprocessed dataset ready for machine learning or analytics tasks
-
-Scikit-learn – for transformation using pipelines and preprocessors
+A cleaned, preprocessed dataset ready for machine learning or analytics ##
